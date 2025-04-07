@@ -3,11 +3,7 @@
 IQR Outlier Detection and Data Splitting
 
 ## Objective
-A Python program that takes a CSV file as input, performs Interquartile Range (IQR) outlier 
-detection on a specified column, and splits the dataset into outliers and non-outliers. The program 
-should generate summary statistics for the original, outlier, and non-outlier subsets of the dataset, and  
-save the split datasets as separate CSV files. No plotting is necessary. The summary statistics must 
-be printed out in the console.
+A Python program that takes a CSV file as input, performs Interquartile Range (IQR) outlier detection on a specified column, and splits the dataset into outliers and non-outliers. This program will generate summary statistics for the original, outlier, and non-outlier subsets of the dataset and save the split datasets as separate CSV files. No plotting is necessary. The summary statistics must be printed out in the console.
 
 ### Skills Learned
 
@@ -20,9 +16,7 @@ be printed out in the console.
 ### Libraries Used
 
 - Pandas for data manipulation and analysis.
-- Numpy for numerical computations.
-- Seaborn for statistical data visualization.
-- Matplotlib for creating static, animated, and interactive visualizations in Python.
+- sys for system-specific parameters and functions.
 
 ## Steps
 - Start by importing essential libraries
