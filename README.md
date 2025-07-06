@@ -1,3 +1,5 @@
+A Python CLI tool to detect outliers using IQR, split datasets, print summary stats, and save results as CSV.
+
 # 📊 Outlier Detection and Data Splitting using IQR
 
 ## 📌 Project Objective
